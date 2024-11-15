@@ -10,9 +10,9 @@
 - 📄 Know about my experiences [https://github.com/AbhiramReddy59/resume](https://github.com/AbhiramReddy59/resume)
 
 - Experienced in solving competitive programming problems across various online coding platforms
-  -[https://leetcode.com/u/ABHI1102/](https://leetcode.com/u/ABHI1102/)
-  -[https://takeuforward.org/profile/abhi_enukonda](https://takeuforward.org/profile/abhi_enukonda)
-  -[https://www.geeksforgeeks.org/user/enukonda56y7/](https://www.geeksforgeeks.org/user/enukonda56y7/)
+- [https://leetcode.com/u/ABHI1102/](https://leetcode.com/u/ABHI1102/)
+- [https://takeuforward.org/profile/abhi_enukonda](https://takeuforward.org/profile/abhi_enukonda)
+- [https://www.geeksforgeeks.org/user/enukonda56y7/](https://www.geeksforgeeks.org/user/enukonda56y7/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
