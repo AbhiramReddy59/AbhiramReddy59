@@ -9,6 +9,11 @@
 
 - 📄 Know about my experiences [https://github.com/AbhiramReddy59/resume](https://github.com/AbhiramReddy59/resume)
 
+- Kow my
+- [https://leetcode.com/u/ABHI1102/](https://leetcode.com/u/ABHI1102/)
+- [https://takeuforward.org/profile/abhi_enukonda](https://takeuforward.org/profile/abhi_enukonda)
+- [https://www.geeksforgeeks.org/user/enukonda56y7/](https://www.geeksforgeeks.org/user/enukonda56y7/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abhiram-reddy-enukonda-9aaab4249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhiram-reddy-enukonda-9aaab4249" height="30" width="40" /></a>
